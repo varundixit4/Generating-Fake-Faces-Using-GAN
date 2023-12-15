@@ -1,4 +1,5 @@
 <h1>Generating Fake Faces Using GAN</h1></br>
+<h3>This Project was a requirement for the subject 'Artificial Intelligence' during semester 7</h3>
 <p>Generative Adversarial Networks(GAN) is a Deep Learning model that uses two neural networks to generate data. The two neural networks are Generator and Discriminator. A GAN model is used to generate synthetic data using a real dataset. This helps engineers to create better ML models with increased accuracy.</p></br>
 <p>The generator network in a GAN takes random noise as input and tries to generate realistic data samples, such as images, music, or text. The discriminator network, on the other hand, takes both the generated samples from the generator and real samples from the training dataset and tries to distinguish between them.</p></br>
 <img src='https://media.geeksforgeeks.org/wp-content/uploads/gans_gfg.jpg' alt='GAN Architecture'></br>
